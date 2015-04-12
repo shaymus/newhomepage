@@ -1,0 +1,19 @@
+body {
+	background: url("legs.jpg");
+	background-position: center;
+	color: white;
+	font-family: helvetica;
+	text-align: center;
+}
+p {
+  font-size: 22px;
+}
+input {
+  border: 0;
+  padding: 10px;
+  font-size: 18px;
+}
+input[type="submit"]{
+  color: white;
+  background: red;
+}
